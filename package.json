@@ -1,5 +1,5 @@
 {
-   "name": "WASI-MD-V3",
+   "name": "SHARMEN",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by Itxxwasi.",
    "main": "index.js",

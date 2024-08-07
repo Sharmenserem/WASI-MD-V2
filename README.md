@@ -1,7 +1,7 @@
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
+  <a href="https://whatsapp.com/channel/0029Vafl1ggFnSz7wnrdp622">
     <img alt="wasi" height="300" src="https://telegra.ph/file/96fc57e7eb61ce6ce4b05.jpg">
-    <h1 align="center">WASI MD V2</h1>
+    <h1 align="center">SHARMEN</h1>
   </a>
 </p>
 <p align="center">
